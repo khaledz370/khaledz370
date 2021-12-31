@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khaled</h1>
+<h1 align="center">Hi I'm Khaled</h1>
 <h3 align="center">A creative full stack developer from Egypt</h3>
 
 - 🌱 I’m currently learning **react native**
