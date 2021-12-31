@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react native**
 
-- 👯 I'm looking for **a full stack developer role in web development company**
+- 👯 I'm looking for **a full stack developer role in Freelancing**
 
 - 💬 Ask me about **html, CSS, JavaScript, jQuery, bootstrap, Laravel and react**
 
