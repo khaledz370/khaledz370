@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
 <h3 align="center">A creative full stack developer from Egypt</h3>
 
-- 🌱 I’m currently learning **react native**
-
 - 👯 I'm looking for **a full stack developer role in Freelancing**
 
 - 💬 Ask me about **html, CSS, JavaScript, jQuery, bootstrap, Laravel and react**
